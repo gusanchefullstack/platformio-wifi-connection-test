@@ -1,2 +1,2 @@
-#define SECRET_SSID "SanPeace301"
-#define SECRET_PASS "52425815"
+#define SECRET_SSID "XXXXXXXX"
+#define SECRET_PASS "YYYYYYYY"
